@@ -1,0 +1,16 @@
+.showToast{
+    display: block;
+    position: fixed;
+    top: 50%;
+    background: rgba(0,0,0,.6);
+    color:#fff;
+    z-index: 20;
+    padding: 4px 14px;
+    transform: translateX(-50%);
+    left: 50%;
+    border-radius: 4px;
+}
+.hideToast{
+    display: none;
+    
+}

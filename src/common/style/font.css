@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?uubps2');
+  src:  url('fonts/icomoon.eot?uubps2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?uubps2') format('truetype'),
+    url('fonts/icomoon.woff?uubps2') format('woff'),
+    url('fonts/icomoon.svg?uubps2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon1:before {
+  content: "\e900";
+  color: #d81e06;
+}
+.icon-icon2:before {
+  content: "\e901";
+  color: #515151;
+}
+.icon-icon-feidian:before {
+  content: "\e902";
+  color: #515151;
+}
+.icon-icon-feidian2:before {
+  content: "\e903";
+  color: #d81e06;
+}
+.icon-icon-home1:before {
+  content: "\e904";
+  color: #515151;
+}
+.icon-icon-home2:before {
+  content: "\e905";
+  color: #d81e06;
+}
+.icon-icon-home3:before {
+  content: "\e906";
+  color: #d81e06;
+}
+.icon-icon-home4:before {
+  content: "\e907";
+  color: #515151;
+}
+.icon-icon-list:before {
+  content: "\e908";
+  color: #d81e06;
+}
+.icon-icon-list2:before {
+  content: "\e909";
+  color: #515151;
+}
+.icon-icon-list3:before {
+  content: "\e90a";
+  color: #d81e06;
+}
+.icon-icon-list4:before {
+  content: "\e90b";
+  color: #515151;
+}
+.icon-icon-me:before {
+  content: "\e90c";
+  color: #d81e06;
+}
+.icon-icon-me2:before {
+  content: "\e90d";
+  color: #515151;
+}
+.icon-icon-msg:before {
+  content: "\e90e";
+  color: #d81e06;
+}
+.icon-icon-msg2:before {
+  content: "\e90f";
+  color: #515151;
+}
+.icon-icon-msg3:before {
+  content: "\e910";
+  color: #d81e06;
+}
+.icon-icon-msg4:before {
+  content: "\e911";
+  color: #515151;
+}
+.icon-icon-seach2:before {
+  content: "\e912";
+  color: #515151;
+}
+.icon-icon-search:before {
+  content: "\e913";
+  color: #d81e06;
+}
